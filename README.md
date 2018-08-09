@@ -2,8 +2,14 @@
 
   www.askelp.com
 
-  Available soon in the playstore... </br></br>
+  Soon will be available  in the playstore... </br></br>
 
+# Desctiption
+Have a question about something? Don’t know who to ask?
+Have some knowledge? Like to help other people?
+Ask and Answer any questions at anytime.
+Ask for help and help others on Askelp.
+Ask in any language, you don’t need to use English only.
 
   # 1- SignIn/Up screen </br>
   Users can signIn/Up using Facebook Google or Email</br>
