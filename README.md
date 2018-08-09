@@ -5,11 +5,11 @@
   Soon will be available  in the playstore... </br></br>
 
 # Desctiption
-Have a question about something? Don’t know who to ask?
-Have some knowledge? Like to help other people?
-Ask and Answer any questions at anytime.
-Ask for help and help others on Askelp.
-Ask in any language, you don’t need to use English only.
+Have a question about something? Don’t know who to ask? </br>
+Have some knowledge and like to help others?</br>
+Ask and Answer any questions at anytime.</br>
+Ask for help and help others on Askelp.</br>
+Ask in any language, you don’t need to use English only.</br>
 
   # 1- SignIn/Up screen </br>
   Users can signIn/Up using Facebook Google or Email</br>
