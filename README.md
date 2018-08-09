@@ -12,19 +12,22 @@ Where users can see questions that have been asked by the people he/she is follo
 
 
 3- Public screen </br>
-Where users can see all the questions that are being asked in the in the app, sorting the questions by the most recent.
+Where users can see all the questions that are being asked in the in the app, sorting the questions by the most recent.</br>
 <a href="https://ibb.co/dDqCo9"><img src="https://preview.ibb.co/ft9ivp/3.png" alt="3" border="0" width="300" height="600"></a></br></br>
 
 
-4- SignIn/Up screen </br>
+4- Menu</br>
+Where users can sign out from the app or see the app categories</br>
 <a href="https://ibb.co/jGGk89"><img src="https://preview.ibb.co/iz67MU/4.png" alt="4" border="0" width="300" height="600"></a></br></br>
 
 
-5- SignIn/Up screen </br>
+5- Categories </br>
+Where users can explore and see all the cateogires in the app and press on any to explore more</br>
 <a href="https://ibb.co/fvgJT9"><img src="https://preview.ibb.co/gSHso9/5.png" alt="5" border="0" width="300" height="600"></a></br></br>
 
 
-6- SignIn/Up screen </br>
+6- Category </br>
+Where users can see the questiosn that is being asked in that category, followers and questions count and follow it if they want</br>
 <a href="https://ibb.co/djHE1U"><img src="https://preview.ibb.co/kKX3vp/6.png" alt="6" border="0" width="300" height="600"></a></br></br>
 
 
