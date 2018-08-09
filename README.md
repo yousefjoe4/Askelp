@@ -2,8 +2,10 @@
 
 
 1- SignIn/Up screen </br>
+Users can signIn/Up using Facebook Google or Email</br>
 <a href="https://ibb.co/bzGJT9"><img src="https://preview.ibb.co/nv8Aap/1.png" alt="1" border="0" width="300" height="600"></a></br></br>
-2- SignIn/Up screen </br>
+2- Following screen </br>
+Where users can see questions that have been asked by the people he/she is following, or the questions that have been asked in the categories that the user is following.</br>
 <a href="https://ibb.co/iAqdT9"><img src="https://preview.ibb.co/dmkCo9/2.png" alt="2" border="0" width="300" height="600"></a></br></br>
 3- SignIn/Up screen </br>
 <a href="https://ibb.co/dDqCo9"><img src="https://preview.ibb.co/ft9ivp/3.png" alt="3" border="0" width="300" height="600"></a></br></br>
