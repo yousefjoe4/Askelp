@@ -41,9 +41,11 @@ Ask in any language, you don’t need to use English only.</br>
   <a href="https://ibb.co/djHE1U"><img src="https://preview.ibb.co/kKX3vp/6.png" alt="6" border="0" width="300" height="600"></a></br></br>
 
   # 7- Another user </br>
+  Where users can see other users profiles and follow them or see their questions </br>
   <a href="https://ibb.co/dExBWU"><img src="https://preview.ibb.co/mgU3d9/Screenshot_1533793428.png" alt="Screenshot_1533793428" border="0" width="300" height="600"></a></br>
 
   # 8- Question Detail </br>
+  Where users can see the full question, see answers or add answer to it </br>
   <a href="https://ibb.co/dhK3d9"><img src="https://preview.ibb.co/bQ9QrU/Screenshot_1533793450.png" alt="Screenshot_1533793450" border="0" width="300" height="600"></a><br /></br>
   # 9- Filter </br>
   Where users can filter the questions in the Following Screen or the Public screen and choosecertain categories or question language, to see only the related questions based on their preference.</br>
