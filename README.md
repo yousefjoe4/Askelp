@@ -1,15 +1,5 @@
 # Askelp
 
-![alt text](https://ibb.co/bzGJT9)
-![alt text](https://ibb.co/iAqdT9)
-![alt text](https://ibb.co/dDqCo9)
-![alt text](https://ibb.co/jGGk89)
-![alt text](https://ibb.co/fvgJT9)
-![alt text](https://ibb.co/djHE1U)
-![alt text](https://ibb.co/dPQdT9)
-![alt text](https://ibb.co/kiG7MU)
-![alt text](https://ibb.co/kzTMgU)
-![alt text](https://ibb.co/kmfdT9)
 
 <a href="https://ibb.co/bzGJT9"><img src="https://preview.ibb.co/nv8Aap/1.png" alt="1" border="0"></a>
 <a href="https://ibb.co/iAqdT9"><img src="https://preview.ibb.co/dmkCo9/2.png" alt="2" border="0"></a>
@@ -20,8 +10,7 @@
 <a href="https://ibb.co/dPQdT9"><img src="https://preview.ibb.co/fx0Co9/7.png" alt="7" border="0"></a>
 <a href="https://ibb.co/kiG7MU"><img src="https://preview.ibb.co/mtinMU/8.png" alt="8" border="0"></a>
 <a href="https://ibb.co/kzTMgU"><img src="https://preview.ibb.co/dfeSMU/9.png" alt="9" border="0"></a>
-<a href="https://ibb.co/kmfdT9"><img src="https://preview.ibb.co/mJFCo9/10.png" alt="10" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/Francis-Ernley-Walrond/poems'>Francis Ernley Walrond poems</a><br />
-
+<a href="https://ibb.co/kmfdT9"><img src="https://preview.ibb.co/mJFCo9/10.png" alt="10" border="0"></a>
 
 
 
