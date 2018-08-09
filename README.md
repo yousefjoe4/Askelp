@@ -1,7 +1,7 @@
 # Askelp
 
 
-<a href="https://ibb.co/bzGJT9"><img src="https://preview.ibb.co/nv8Aap/1.png" alt="1" border="0"></a>
+<a href="https://ibb.co/bzGJT9"><img src="https://preview.ibb.co/nv8Aap/1.png" alt="1" border="0" width="500" height="600"></a>
 <a href="https://ibb.co/iAqdT9"><img src="https://preview.ibb.co/dmkCo9/2.png" alt="2" border="0"></a>
 <a href="https://ibb.co/dDqCo9"><img src="https://preview.ibb.co/ft9ivp/3.png" alt="3" border="0"></a>
 <a href="https://ibb.co/jGGk89"><img src="https://preview.ibb.co/iz67MU/4.png" alt="4" border="0"></a>
