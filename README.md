@@ -9,7 +9,27 @@ Have a question about something? Don’t know who to ask? </br>
 Have some knowledge and like to help others?</br>
 Ask and Answer any questions at anytime.</br>
 Ask for help and help others on Askelp.</br>
-Ask in any language, you don’t need to use English only.</br>
+Ask in any language, you don’t need to use English only.</br></br>
+Users can:</br>
+- Post questions.</br>
+- Up/down vote questions and answers.</br>
+- Answer each other questions.</br>
+- Follow users.</br>
+- Follow categories.</br>
+- See questions asked in public (by everyone).</br>
+- See questions that is asked by the users they're following or the categories they are following.</br>
+- See each other profiles and see each one questions.</br>
+- Change their profile picture.</br>
+- Filter questions by categories, language.</br>
+- Specify their questions language and categories.</br>
+- Create a category if one doesn't exist.</br>
+- Ask question anonymously.</br>
+
+## Here are pictures for the app:
+https://github.com/yousefjoe4/Askelp/blob/master/README.md
+
+And here's the apk file link (it's not available on playstore yet but soon will be):
+
 
   # 1- SignIn/Up screen </br>
   Users can signIn/Up using Facebook Google or Email</br>
