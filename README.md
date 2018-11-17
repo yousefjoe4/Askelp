@@ -25,10 +25,6 @@ Users can:</br>
 - Ask question anonymously.</br>
 
 # Here are pictures for the app:
-https://github.com/yousefjoe4/Askelp/blob/master/README.md
-
-And here's the apk file link (it's not available on playstore yet but soon will be):
-
 
   ## 1- SignIn/Up screen </br>
   Users can signIn/Up using Facebook Google or Email</br>
