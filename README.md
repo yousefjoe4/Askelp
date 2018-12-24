@@ -1,7 +1,7 @@
   # Askelp
 
-  APK - https://drive.google.com/file/d/1U5_lN8CTLHKk8BY77Le2mFIEonPQ1wJ7/view?usp=sharing </br>
-  Soon will be available  in the playstore... </br></br>
+  On playstore: </br> 
+  https://play.google.com/store/apps/details?id=com.askelp.askelp </br></br>
 
 # Desctiption
 Have a question about something? Don’t know who to ask? </br>
